@@ -1,0 +1,15 @@
+This models a Bayes network of the form
+
+
+		A
+		|
+	    +---+---+
+	    |	    |
+	    B       C
+	    |	    |
+            +---+---+
+		|
+	        D
+
+
+
